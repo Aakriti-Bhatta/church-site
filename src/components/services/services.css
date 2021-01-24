@@ -1,0 +1,19 @@
+.services_container{
+    width: 85%;
+    margin: auto;
+    padding: 40px 0px;
+   
+    background-size: cover;
+  }
+  
+  .services{
+    display: flex;
+    margin-right: 4px;
+  }
+  .hero{
+    background-color: #e9ecef;
+  }
+  .icons{
+    color: #cf4946 !important;
+    font-size: 50px;
+  }

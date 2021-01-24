@@ -1,0 +1,40 @@
+.banner_container{
+    
+    background-color: #cf4946;
+    
+    
+    
+}
+.banner{
+    width: 85%;
+    margin: auto;
+    padding: 20px 0px;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    
+}
+.row{
+    width: 33.33%;
+    margin-right: 100px !important;
+    
+    
+}
+.row2{
+    margin-left: 22px;
+}
+.btn1{
+    outline: auto;
+    margin-top: 4%;
+}
+.title1{
+    margin-top: 1%;
+    padding-left: 20px;
+    margin-left: 0%;
+    text-align: left;
+    font-size: 20px;
+    
+}
+#banner svg{
+    color:#fff;
+}

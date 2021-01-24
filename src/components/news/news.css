@@ -1,0 +1,18 @@
+.news_container{
+    width: 85%;
+    margin: auto;
+}
+.serve{
+    text-align: center;
+    padding-top: 0%;
+    margin-top: 4px;
+    font-size: 14px;
+    padding-bottom: 20px;
+}
+.latest{
+    margin-bottom: 0%;
+}
+.news{
+    display: flex;
+    padding-right: 20px;
+}
